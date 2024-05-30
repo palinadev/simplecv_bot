@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = '6316594438:AAG1KhuiUqjMUspQzzkYZ5Yr9m57O2-vdUY'
+TOKEN = 'yourtoken'
 
 from telebot import types
 
