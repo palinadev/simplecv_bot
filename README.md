@@ -1,6 +1,16 @@
-https://t.me/polinacv_bot
+# Python Telegram bot
 
-this is my simple cv bot, later will be updated to have new features
+## Author
 
-UPD: currently out of operation
+royalehoneybadger
 
+## Description
+
+Telegram bot allowing user to look through my cv given out in a form of mesaages.
+[Telegram bot](https://t.me/polinacv_bot)
+
+## Technlogies Used
+
+- Python
+
+## **2024**
